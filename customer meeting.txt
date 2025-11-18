@@ -1,0 +1,155 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+Alright, now Tom. Anytime a meeting is recorded, it is essential that the participants agree to the recording. So, when you turn on meeting recording, you must announce it. 
+
+So, I want you to practice that step and announce that the meeting is recorded on the recording itself. Okay, that this meeting is being recorded on the recording itself. Okay, so say what the date and time is and what the purpose of the meeting is the best of your knowledge.
+
+Okay, and today is the 18th 2025. And the purpose of this meeting is to practice customer relations. Okay, so I'm going to step out. 
+
+I'm going to close your door. I'm going to close my door so we don't get a feedback loop. Or to minimize any feedback, because we're hearing an echo, right? Okay, is Jim going to join us. 
+
+Jim is invited to join us. I don't know if he did not make a concrete commitment to me with respect to that. So, we're just going to go and, you know, whatever we say is going to be recorded and they could catch up with if they want to.
+
+Alright, we'll do that. We're sure you want me to knock on his door and ask him? Please. So, you got the option of watching him on Zoom or, you know, for hanging out with us.
+
+Okay, let's close these doors because we're getting to see that. Right? No. Okay.
+
+Give me a good dose. Okay, very soon. We're very stylish.
+
+I like them. It's a good season. Okay.
+
+Okay. So, we have, uh, let's, uh, let's all. They're all, they're all back up.
+
+Well, what we have about if I were to put a towel, towel, the bottom window. I think you'd end up pulling down the curtain rod towels are going to be heavy. And you're going to need to string them up tight in order to.
+
+In order to deal with that. Yeah. I can't just, I can't close up those lines.
+
+It has to be to have on the mill rod. Okay. So, my suggestion is we'll just.
+
+Put a note on the issue and give it some thought to what we might want to do later, but not try to solve it now because we want to. Yeah. That was me.
+
+We'll, we'll look at that problem corrected later. Yeah. Okay.
+
+So what I'd like to do is, uh, so, uh, the participants. The active participants can announce themselves. So Tom, uh, tell me, tell me your name.
+
+What is your role? Okay. My name is Thomas Daley. If my role is not, isn't that a developer? What kind of developer? Are you an Android app developer? No, I am, I'm a iPhone app developer.
+
+All right. Okay. So you are an iPhone application developer.
+
+Okay. Tom, uh, my name is Will and I, uh, I represent the, uh, a group called the open cult. And we are a nonprofit and we exist in order to promote radical transparency in everyday life.
+
+Uh, we seek transformation of, uh, business and research and politics, uh, through process engineering. And, uh, starting with a transparency first paradigm. So this is something very new and we need to start to organize ourselves.
+
+So we want to create an app. It's going to be the entry point into our community. It'll be a way for us to.
+
+Have discussions. To. Plan events.
+
+And. How to. Offer.
+
+Ideas on. And, and express our availability as consultants. In, uh, radical transparency and process reengineering.
+
+So that is what we, uh, that is what we're. That's what we exist to promote and the app that we need. Uh, it's going to change over time, but initially we just want something that's going to, uh, display our name on a, uh, on an app.
+
+And provide, uh, contact information. For, you know, so that people can get in touch with us. So, so, so, so if you don't need so far contact information, you're going to need the phone numbers and emails.
+
+Yes. Yeah. We'll, we'll have.
+
+Yeah. We'll have an email. Uh, you know, like a general information email.
+
+Uh, and we'll have. Some, yeah, some contact information of the, uh, you know, the high ranking members of, of the open, uh, of the open cult. Yeah.
+
+And perhaps we'll have a website. Um, but right now we want to focus on getting the app out there. So.
+
+What we would like. Well, okay. So that's our requirement.
+
+Why don't you tell me what you think. Uh, should happen. So we can get to the point where we can have a downloadable application.
+
+That, you know, our members can access. Through the, um, through the Apple app store. All right.
+
+All right. So, so, uh, so I met, so I met. So I remember the, uh, so the first thing I said, why, why see on your, on your app is your, is your company name.
+
+That is correct. Uh, the open cult is who is, is our name for, you know, until something better comes. Sorry.
+
+Sorry. Sorry. Well, the text file, so I can get this information.
+
+Okay. Okay. Where's text out here? Now, one thing that I'd like you to be aware of, Tom, is that this, the recording.
+
+For this meeting is also going to include a text transcript. So my expectation is that anything that we say here during this. Conversation is automatically going to be transcribed into text.
+
+Now we'll get available. Okay. So we're meeting files once we close this meeting down.
+
+What was that? That text transcript will be available in the meeting files. Once this meeting ends. All right.
+
+Yes. I wasn't going to write this down. Yes.
+
+That is correct. All right. Okay.
+
+We've lost our, we, we've bored our spectator. He wants to, he's, he's going away. We've lost our first non-paying customers.
+
+All right. Okay. And then, and then, and then, after they see, they, they see your company name.
+
+You, you, you want to put, put, put your content on your, your content information. Like everybody's email and phone number. Yes.
+
+That is correct. Email and phone number. First and last name.
+
+That should be, yeah. There should be a contact information should be readily accessible through the app. In other words, on, on, on, on the same page of the app.
+
+Yeah. But we want to be able to update that information online. So we don't want to, if, like our information may change, we don't want to force people to update the app.
+
+If somebody leaves the company or if someone new joins, we need to be able to update this on an internet database somewhere and have it get retrieved in real time by the app. Is that, is that possible? All right. That's, that's, that's not possible.
+
+And, and, and, and, and, and, and, and, and, and what we need to create our, or, or, or, API, I, I key keys, that's what we can, so we can give us information from the internet. Okay. All that can be done, like, to do, to do, to do a, to like a pull request.
+
+Okay. So, um, Do you need to know how many users we expect to have for your rollout? Okay. Okay, so I expect that for our initial rollout, we want to be able to have up to 500 users.
+
+And we want to be able to manage that list of users online and update it without needing to update the app. So the app should pull the contact information, you know, when it starts up. And maybe save it in like maybe the app should start up.
+
+See if the internet is accessible and if it is updated, it's information and if it's not display the saved local information. All right, so I'm sorry, I'm going to put it here, I just want to make a correction on that alafire. I think we can use both Firebase and Firebase for saving stuff online and Realm to save stuff locally.
+
+Okay, okay, we'll be, you know, I guess what we'll probably need to understand in order of those two, of those two products, we'd like for you to prepare, you know, a data sheet, maybe one to three pages where you just, you know, compare those two and help guide us through the decision of deciding which one we should use. All right, by myself, it's not always, it's not always where you want to see what the pros and cons are. Exactly, exactly.
+
+Let's see. So how long do you, how long is it going to take you to do it? I don't know, I don't know how to say about two, maybe three weeks, two to three weeks. Okay, so that's two to three weeks to produce a prototype.
+
+Well, what, what, what, what, what, what, what, what, what do you produce a prototype? I'll say maybe under two weeks. Under two weeks for a prototype. So in two weeks, will we see it on the, on the Apple App Store? Yes.
+
+Okay. So in two weeks, so today is what's today? The 18th. Tuesday the 18th.
+
+So that means what's two weeks, what's two weeks from today, then? That'll be December 9th. Okay, so December 9th, we will have a prototype on the App Store that will be available to be to be downloaded. Is that correct? That's correct.
+
+Okay. Now, when will we be getting a written specification for the application? So we, we, we by written specification. Well, so everything that we discussed are requirements, you know, there's not like, like a, like a, like a, what, what, what should, what should appear in the application, but you use, you use two of them to the information? Yes.
+
+So the information that we discussed that you have understood would need to be written down in a programming specification that we could publish and we could review and either approve or respond to in case there's something that we want to change. So we're looking for you to create this specification for us based upon what we have discussed here. It doesn't make me like a, like a, what, like a, what, what will, what will, what will be on the app? Yes, that is exactly correct.
+
+So it's like, you know, when you, you know, if you have, so you worked, I understand in the previous job, you worked as a driver. And so as a driver, you know, you may look at the map to figure out what your route is. So that's like your specification, you know, but the actual driving part doesn't use a map.
+
+The actual driving part is, you know, you're operating the vehicle navigating, navigating the road. So, so the, so the, you driving the delivery truck, bringing packages to customers is the, the application, the map and the manifest are the specifications saying, you know, here's what you're delivering. Here's where you're delivering to.
+
+Here's how you're going to get there. So that's part of your specifications. So as part of our part of what we expect for our app is a specification that explains to us what it's going to do and how it works.
+
+And, and, and, and, and, and what, what, what part of the part of the app will each, but take it. That would be good for us to know and understand. So when can we get that specification? Okay.
+
+I'll say about one week. Okay. So one week today, we can expect a specification and then one week thereafter, we can expect a prototype on the Apple App Store.
+
+Okay. Okay. That, that sounds sounds excellent.
+
+Okay. So now, do you think we should have a follow up meeting in a couple of days to see where we are? Yes. Okay.
+
+Do you think what today is Tuesday? Is that right? Yes. What about, that is Friday sound. That's a fine.
+
+That's a fine. Good. So, because what I can do is show it, show it with the, what the whole screen is, is it, is it should have, have your, have your, kind of that names and then, then, then, then, then on your, on your, on your, on your next page, the page is just a place where you can they can, and to the information about themselves.
+
+Okay. All right. So, would Friday be better than Thursday? Yeah, I believe our Friday would be better.
+
+Okay. Or, or, or if I possibly a little bit sooner. Okay. 
+
+Well, I got to, I got to communicate with people on my side. So it would be better for us to choose a date, a firm date than it would be for us to, you know, better to choose a date that we're confident about than a date we're not confident about. So, should we keep it at Friday? Okay.
+
+We'll keep it fine, but, but if it's a, if it's a, any sooner, I'll let you know. Okay. So I'd appreciate you setting up another meeting to the same audience, you know, and include a topic that explains, you know, what the, what the meeting's for.
+
+And that's all, that's all we need for now. Thank you, Tom, for your time today. You're very welcome.
+
+Okay. You can close the meeting down. Okay.
+
+You wanna answer? Yeah.
+
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
